@@ -1,0 +1,33 @@
+# ---- PyCharm / IntelliJ ----
+.idea/
+*.iml
+
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ---- Virtual Environments ----
+venv/
+ENV/
+env/
+.venv/
+pip-wheel-metadata/
+
+# ---- Jupyter Notebook ----
+.ipynb_checkpoints/
+
+# ---- System / OS ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs / Temporary ----
+*.log
+*.tmp
+*.swp
